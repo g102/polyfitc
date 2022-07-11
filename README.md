@@ -22,6 +22,6 @@ If c is not passed as an input, or it only contains NaNs and Infs, polyfitc(x, y
 
 Author: Stefano Gambuzza
 
-Email: stefano DOT gam AT gmail DOT com
+Email: stefanogambuzza AT duck DOT com
 
 Licence: MIT Licence
