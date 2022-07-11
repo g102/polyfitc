@@ -20,6 +20,8 @@ that is, p([1, 2, 4]) are computed and p(3) = 3.
 
 If c is not passed as an input, or it only contains NaNs and Infs, polyfitc(x, y, n, c) returns the same output of polyfit(x, y, n).
 
+## Authorship
+
 Author: Stefano Gambuzza
 
 Email: stefanogambuzza AT duck DOT com
