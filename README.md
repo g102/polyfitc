@@ -1,4 +1,4 @@
-# polyfitc-matlab
+# polyfitc
 A function to compute polynomial regression with fixed coefficients
 
 Determine the best-fitting polynomial of degree n to the observations (x, y), under the additional constraint that some coefficients are given and fixed.
